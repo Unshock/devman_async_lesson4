@@ -1,0 +1,4 @@
+host: minechat.dvmn.org
+read_port: 5000
+write_port: 5050
+history: messages.log
